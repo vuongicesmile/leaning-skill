@@ -1,8 +1,8 @@
-# Leaning Skill — học cách bộ YTL AI Labs skills hoạt động
+# Leaning Skill — học cách bộ skills hoạt động
 
 Tài liệu tiếng Việt phân tích `ytlailabs-claude-skills`: bộ này làm gì, được nạp và chạy thế nào, cài ra sao, dùng lệnh nào và đọc mã nguồn từ đâu.
 
-Đây là repo học tập độc lập, không phải plugin chính thức của YTL AI Labs. Nội dung được viết lại từ việc đọc một bản mã nguồn local; không đóng gói plugin hay sao chép dữ liệu vận hành. Tên repo giữ theo yêu cầu: **leaning-skill**.
+Đây là repo học tập độc lập, không phải plugin chính thức. Nội dung được viết lại từ việc đọc một bản mã nguồn local; không đóng gói plugin hay sao chép dữ liệu vận hành. Tên repo giữ theo yêu cầu: **leaning-skill**.
 
 ## Hiểu nhanh
 
